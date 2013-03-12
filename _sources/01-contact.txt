@@ -2,14 +2,21 @@
 Contact Us
 ######################
 
+
+
+.. sidebar:: `View our store in Google maps <http://goo.gl/maps/rvpb4>`_
+
+   .. note:: Image of Global Goods here.
+
 Visit our store at:
 
-.. sidebar:: Our store's address
-
-   Global Goods
+   Global Goods (North most buiding of First Congregational Church)
    1000 South Cooper Street
    Memphis, TN  38104
    
-.. note:: Image of Global Goods here.
+We are open:
 
-`View our store in Goole maps <http://goo.gl/maps/rvpb4>`_
+Saturday 9:00 a.m.- 5:00 p.m.
+
+Sunday before and after the 10:30 a.m. church service
+
