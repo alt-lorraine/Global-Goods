@@ -1,9 +1,23 @@
-.. Global Goods website documentation master file, created by
-   sphinx-quickstart on Tue Mar 12 12:38:16 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to Global Goods website's documentation!
+####################################################
+Welcome to Global Goods Fair Trade Store
+
+   Changing lives one beautiful purchase at a time.
+####################################################
+
+On this site you can:
+
+Send us an e-mail
+
+Locate our store and its hours of operation
+
+Find out about Global Goods
+
+View a sampling of our goods
+
+Find out about Fair Trade and our vendors
+
+
 ================================================
 
 Contents:

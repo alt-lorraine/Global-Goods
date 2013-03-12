@@ -12,4 +12,4 @@ Visit our store at:
    
 .. image:: globalgoods.jpeg
 
-http://goo.gl/maps/rvpb4
+`View our store in Goole maps <http://goo.gl/maps/rvpb4>`_
