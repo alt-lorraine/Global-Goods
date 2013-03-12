@@ -11,3 +11,5 @@ to a fair trade store and Global Goods was born.  Today, we are open year round
 on weekends and have a wide selection of fair trade goods including coffee,
 chocolate, jewelery, clothing and accessories.
 
+.. note:: Images of items in the list will be inserted.  They will either be in
+a table or in a bulleted list.  Is this too much text on this page?
