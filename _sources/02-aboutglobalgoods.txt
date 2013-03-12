@@ -9,7 +9,7 @@ fit well with church's social justice missions.
 When the church moved to 1000 South Cooper in 2000, we decided to devote space
 to a fair trade store and Global Goods was born.  Today, we are open year round
 on weekends and have a wide selection of fair trade goods including coffee,
-chocolate, jewelery, clothing and accessories.
+chocolate, jewelry, clothing and accessories.
 
-.. note:: Images of items in the list will be inserted.  They will either be in
-a table or in a bulleted list.  Is this too much text on this page?
+.. note:: Images of items in the list will be inserted. They will either be in
+   a table or in a bulleted list.  Is this too much text on this page?
