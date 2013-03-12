@@ -10,6 +10,6 @@ Visit our store at:
    1000 South Cooper Street
    Memphis, TN  38104
    
-.. image:: globalgoods.jpeg
+.. note:: Image of Global Goods here.
 
 `View our store in Goole maps <http://goo.gl/maps/rvpb4>`_
