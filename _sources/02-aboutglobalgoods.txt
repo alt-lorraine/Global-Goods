@@ -11,8 +11,5 @@ to a fair trade store and Global Goods was born.  Today, we are open year round
 on weekends and have a wide selection of fair trade goods including coffee,
 chocolate, jewelry, clothing and accessories.
 
-.. note:: Images of items in the list will be inserted. They will either be in
-   a table or in a bulleted list. I am planning on having a table of our
-   extensive coffee offerings on a subpage.  Do I need to break up this text
-   further?
+Click here to find out more about First Congregational Church.
   

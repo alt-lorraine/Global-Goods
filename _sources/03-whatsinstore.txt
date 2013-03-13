@@ -6,3 +6,10 @@ Our store is full of beautiful, useful, and delicious fair trade items.  Here
 are just a few of the items you can feel good about buying.
 
 .. note:: Images and brief descriptions will of store inventory will appear here.
+
+.. note::I am planning on having a table of our
+   extensive coffee offerings on a subpage. I also think we will have
+   subpages of seasonal items on separate static pages that will turned
+   off and on according to the season: Christmas, Valentine's Day, Easter, etc.
+   
+   Click here to see a selection of seasonal offerings.
