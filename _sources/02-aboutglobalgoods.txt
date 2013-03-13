@@ -3,7 +3,7 @@ About Global Goods
 ##################################
 
 Global Goods got its start as a Christmas season sale at First Congregational
-Church in the 1990's.  The fair trade concept resonanted with church members and 
+Church in the 1990s.  The fair trade concept resonanted with church members and 
 fit well with church's social justice missions.
 
 When the church moved to 1000 South Cooper in 2000, we decided to devote space
@@ -12,4 +12,7 @@ on weekends and have a wide selection of fair trade goods including coffee,
 chocolate, jewelry, clothing and accessories.
 
 .. note:: Images of items in the list will be inserted. They will either be in
-   a table or in a bulleted list.  Is this too much text on this page?
+   a table or in a bulleted list. I am planning on having a table of our
+   extensive coffee offerings on a subpage.  Do I need to break up this text
+   further?
+  
