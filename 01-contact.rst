@@ -10,10 +10,10 @@ Contact Us
 
 Visit our store at:
 
-   | Global Goods
-   | First Congegational Church
-   | 1000 South Cooper Street
-   | Memphis, TN  38104
+|   Global Goods
+|   First Congregational Church
+|   1000 South Cooper Street
+|   Memphis, TN  38104
    
 We are open:
 
