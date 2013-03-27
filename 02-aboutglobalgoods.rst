@@ -12,4 +12,6 @@ on weekends and have a wide selection of fair trade goods including coffee,
 chocolate, jewelry, clothing and accessories.
 
 Click here to find out more about First Congregational Church.
+
+.. note:: Image of store will appear here.
   
