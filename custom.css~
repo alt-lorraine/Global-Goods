@@ -2,3 +2,10 @@ body{
   padding-top: 100px;
   font-size:16px;
 }
+.brand{
+  width: 270px;
+  height: 100px;
+  padding: 5px 5px 5px 0;
+  display: block;
+  background-position: top left;
+}
