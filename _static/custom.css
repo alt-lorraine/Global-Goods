@@ -9,3 +9,8 @@ body{
   display: block;
   background-position: top left;
 }
+.nav .toctree-l1{
+  float:left;
+  list-style: none;
+  list-style-type: none;
+}
