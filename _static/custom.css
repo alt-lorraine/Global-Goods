@@ -2,8 +2,3 @@ body{
   padding-top: 100px;
   font-size:16px;
 }
-
-.brand {
-  background: transparent url("{{ logo }}") no-repeat 22px 3px;
-  padding-left: 62px;
-}

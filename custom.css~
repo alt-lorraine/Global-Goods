@@ -3,7 +3,7 @@ body{
   font-size:16px;
 }
 
-brand {
+.brand {
   background: transparent url("{{ logo }}") no-repeat 22px 3px;
   padding-left: 62px;
 }
