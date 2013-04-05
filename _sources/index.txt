@@ -15,7 +15,7 @@ On this site you can:
 
 +  :ref:`Find out about Global Goods <aboutgg>`
 
-+  :ref:`View a sampling of our store's goods <inventory>`
++  :ref:`View a sampling of our store's goods <store>`
 
 +  :ref:`Find out about Fair Trade and our vendors <aboutft>`
 
