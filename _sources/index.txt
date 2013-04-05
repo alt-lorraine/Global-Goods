@@ -3,10 +3,13 @@
 Welcome to Global Goods Fair Trade Store
 ####################################################
 
+
 |   Shopping you can feel good about.
 
 
+
 On this site you can:
+
 
 +  :ref:`Send us an e-mail <contact>`
 
