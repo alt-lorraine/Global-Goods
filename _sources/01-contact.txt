@@ -8,6 +8,8 @@ Contact Us
 
    .. note:: Image of Global Goods here.
 
+.. _hours:
+
 Visit our store at:
 
 |   Global Goods

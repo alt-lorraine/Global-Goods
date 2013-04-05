@@ -11,13 +11,13 @@ On this site you can:
 
 +  :ref:`Send us an e-mail <contact>`
 
-+  Locate our store and its hours of operation
++  :ref:`Locate our store and its hours of operation <hours>`
 
-+  Find out about Global Goods
++  :ref:`Find out about Global Goods <aboutgg>`
 
-+  View a sampling of our store's goods
++  :ref:`View a sampling of our store's goods <inventory>`
 
-+  Find out about Fair Trade and our vendors
++  :ref:`Find out about Fair Trade and our vendors <aboutft>`
 
 
 .. toctree::
