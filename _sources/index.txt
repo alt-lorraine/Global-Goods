@@ -9,7 +9,7 @@ Welcome to Global Goods Fair Trade Store
 
 On this site you can:
 
-+  Send us an e-mail
++  :ref:`Send us an e-mail <contact>`
 
 +  Locate our store and its hours of operation
 
