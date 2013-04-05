@@ -20,13 +20,10 @@ On this site you can:
 +  Find out about Fair Trade and our vendors
 
 
-================================================
-
-Contents:
-
 .. toctree::
+   :hidden: 
    :maxdepth: 2
    :glob:
    
    [0-9]*
-   :hidden:
+   
