@@ -3,38 +3,29 @@
 Welcome to Global Goods Fair Trade Store
 ####################################################
 
-|   Changing lives one beautiful purchase at a time.
 
-.. note:: The bulleted items will be links to the appropriate webpages.
+|   Shopping you can feel good about.
+
+
 
 On this site you can:
 
-+  Send us an e-mail
 
-+  Locate our store and its hours of operation
++  :ref:`Send us an e-mail <contact>`
 
-+  Find out about Global Goods
++  :ref:`Locate our store and its hours of operation <hours>`
 
-+  View a sampling of our store's goods
++  :ref:`Find out about Global Goods <aboutgg>`
 
-+  Find out about Fair Trade and our vendors
++  :ref:`View a sampling of our store's goods <store>`
 
++  :ref:`Find out about Fair Trade and our vendors <aboutft>`
 
-================================================
-
-Contents:
 
 .. toctree::
+   :hidden: 
    :maxdepth: 2
    :glob:
    
    [0-9]*
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   

@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Global Goods website'
-copyright = u'2013, Lorraine Meiners-Lovel'
+copyright = u'2013, First Congregational Church'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -91,7 +91,7 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'aaltsys'
+# html_theme = 'aaltsys'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -99,7 +99,7 @@ html_theme = 'aaltsys'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['_static']
+# html_theme_path = ['_static']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -238,5 +238,24 @@ texinfo_documents = [
 # If false, no module index is generated.
 #texinfo_domain_indices = True
 
+html_logo = "_images/weblogo.png"
+
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
+sys.path.append(os.path.abspath('_themes'))
+html_theme_path = ['_themes']
+html_theme = 'bootstrap'
+
+# Theme options are theme-specific and customize the look and feel of a
+# theme further.
+html_theme_options = {
+  # Bootswatch (http://bootswatch.com/) theme.
+  #
+  # Options are nothing with "" (default) or the name of a valid theme
+  # such as "amelia" or "cosmo".
+  #
+  # Note that this is served off CDN, so won't be available offline.
+  #'bootswatch_theme': "amelia",
+  
+  #'globaltoc_includehidden': "true",
+}

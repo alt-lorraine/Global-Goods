@@ -1,3 +1,5 @@
+.. _store:
+
 ##############################
 What's in Store
 ##############################
@@ -5,11 +7,15 @@ What's in Store
 Our store is full of beautiful, useful, and delicious fair trade items.  Here 
 are just a few of the items you can feel good about buying.
 
-.. note:: Images and brief descriptions will of store inventory will appear here.
+.. sidebar:: jewelry
 
-.. note:: I am planning on having a table of our
-   extensive coffee offerings on a subpage. I also think we will have
-   subpages of seasonal items on separate static pages that will turned
-   off and on according to the season: Christmas, Valentine's Day, Easter, etc.
+   .. image:: _images/gg_jewelry.png
+
+Global Goods has a wide selection of earrings, necklaces, and bracelets created by skilled craftspeople from around the world.
+
+
+.. sidebar:: chocolate
+
+   ..image:: _images/gg_chocolates.png
    
-   Click here to see a selection of seasonal offerings.
+We offer delicious chocolates from Divine.  They come in assorted sizes and flavors.

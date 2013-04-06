@@ -1,3 +1,5 @@
+.. _contact:
+
 ######################
 Contact Us
 ######################
@@ -5,6 +7,8 @@ Contact Us
 .. sidebar:: `View our store in Google maps <http://goo.gl/maps/rvpb4>`_
 
    .. note:: Image of Global Goods here.
+
+.. _hours:
 
 Visit our store at:
 
