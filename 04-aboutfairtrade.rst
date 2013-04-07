@@ -2,8 +2,10 @@
 .. _aboutft:
 
 ##############################
-What is Fair Trade?
+About Fair Trade?
 ##############################
+
+The fair trade movement began in the 1940s...
 
 .. note:: This page will contain information about the fair trade movement and 
    links to some of our vendor's websites.
