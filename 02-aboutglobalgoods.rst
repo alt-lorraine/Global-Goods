@@ -6,7 +6,7 @@ About Global Goods
 ##################################
 
 Global Goods got its start as a Christmas season sale at First Congregational
-Church in the 1990s.  The fair trade concept resonanted with church members and 
+Church in the 1990s.  The fair trade concept resonated with church members and 
 fit well with church's social justice missions.
 
 When the church moved to 1000 South Cooper in 2000, we decided to devote space

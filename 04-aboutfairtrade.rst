@@ -2,7 +2,7 @@
 .. _aboutft:
 
 ##############################
-About Fair Trade?
+About Fair Trade
 ##############################
 
 The fair trade movement began in the 1940s...
