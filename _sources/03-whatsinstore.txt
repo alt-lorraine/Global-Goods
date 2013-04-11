@@ -11,6 +11,7 @@ are just a few of the items you can feel good about buying.
 .. container:: thumbnail
 
    .. image:: _images/gg_chocolates.png
+   :class: img-polaroid
 
 .. container:: thumbnail
    
