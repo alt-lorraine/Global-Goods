@@ -12,12 +12,15 @@ are just a few of the items you can feel good about buying.
 
    .. image:: _images/gg_chocolates.png
       :class: img-polaroid
+      
+   We offer delicious chocolates from Divine in an assortment of sizes and flavors.
 
 .. container:: thumbnail
    
    .. image:: _images/gg_jewelry.png
+      :class: img-polaroid
 
    Global Goods has a wide selection of earrings, necklaces, and bracelets created by skilled artisans from around the world.
 
    
-We offer delicious chocolates from Divine in an assortment of sizes and flavors.
+
