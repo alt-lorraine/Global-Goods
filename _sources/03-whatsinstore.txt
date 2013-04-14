@@ -24,3 +24,9 @@ are just a few of the items you can feel good about buying.
 
    
 
+.. container:: thumbnail
+   
+   .. image:: _images/gg_fingerpuppets.png
+      :class: img-polaroid
+
+   Your children will enjoy playing with the handmade toys available from Global Goods, especially the ever-popular finger puppets!
