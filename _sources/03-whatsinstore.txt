@@ -31,7 +31,7 @@ are just a few of the items you can feel good about buying.
   
   .. container:: thumbnail
    
-   .. image:: _images/gg_basketandvases.png
+   .. image:: _images/gg_orangebasketsvases.png
       :class: img-polaroid
 
-   At Global Goods, you'll find a wonderful selection of household goods for gift-giving or beutifying your own home.
+   At Global Goods, you'll find a wonderful selection of household goods for gift-giving or beautifying your own home.
