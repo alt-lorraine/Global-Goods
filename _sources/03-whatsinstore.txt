@@ -21,11 +21,10 @@ are just a few of the items you can feel good about buying.
       :class: img-polaroid
 
    Global Goods has a wide selection of earrings, necklaces, and bracelets created by skilled artisans from around the world.
-
    
 .. container:: thumbnail
    
    .. image:: _images/gg_fingepuppets.png
       :class: img-polaroid
 
-   Your children will enjoy playing with the handmade toys available from Global Goods, especially the ever-popular finger puppets!  No batteriers required, just imagination.
+   Your children will enjoy playing with handmade toys from Global Goods, especially the ever-popular finger puppets!  No batteriers required, just imagination.
