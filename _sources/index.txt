@@ -7,9 +7,9 @@ Welcome to Global Goods Fair Trade Store
 |   Shopping you can feel good about.
 
 
-.. sidebar::_
+.. sidebar::
 
-.. image:: _images/gg_store1.png
+   .. image:: _images/gg_store1.png
       :class: img-polaroid
       
 On this site you can:
